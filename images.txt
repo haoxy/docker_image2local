@@ -1,7 +1,7 @@
 --platform=linux/arm64/v8 nginx:alpine
 --platform=linux/arm64/v8 eclipse-temurin:8-jre
---platform=amd64 nginx:alpine
---platform=amd64 eclipse-temurin:8-jre
+nginx:alpine
+eclipse-temurin:8-jre
 eclipse-temurin:8-jre-focal
 busybox
 --platform=linux/arm64/v8 busybox
