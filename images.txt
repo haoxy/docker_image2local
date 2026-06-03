@@ -7,6 +7,8 @@ eclipse-temurin:8-jdk
 eclipse-temurin:8-jre-focal
 busybox
 --platform=linux/arm64/v8 busybox
+redis:6
+--platform=linux/arm64/v8 redis:6
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
