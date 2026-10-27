@@ -1,6 +1,7 @@
 --platform=linux/arm64/v8 nginx:alpine
 --platform=linux/arm64/v8 eclipse-temurin:8-jre
 --platform=linux/arm64/v8 eclipse-temurin:8-jdk
+--platform=linux/arm64/v8 azul/zulu-openjdk:8-latest
 nginx:alpine
 eclipse-temurin:8-jre
 eclipse-temurin:8-jdk
